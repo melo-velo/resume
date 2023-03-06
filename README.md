@@ -1,4 +1,4 @@
-Resume for Martin Jaakola
+Resume (in progress) for Martin Jaakola
 
 ### Source
 
