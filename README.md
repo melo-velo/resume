@@ -1,4 +1,4 @@
-Resume (in progress) for Martin Jaakola
+Martin Jaakola's technical resume. 
 
 ### Source
 
